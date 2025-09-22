@@ -1,0 +1,37 @@
+{
+    "beam_diameter": "4.0",
+    "cleanup_duration": 120.0,
+    "commit": "320c9b28b23a24ccf5ffbf7ca0844ca1cc78073a",
+    "cryo_temperature": 0.0,
+    "extract_device": "Fusions Diode",
+    "extract_duration": 60.0,
+    "extract_units": "watts",
+    "extract_value": 4.3,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "16hole",
+    "load_name": "D0242",
+    "pattern": "16holeTrough_small-holes1-3and5-6and8-9and11-12and14-16.lp",
+    "pipette_counts": [],
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 12,
+            "x": -17.677,
+            "y": -11.189,
+            "z": 16.0
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "snapshots": [],
+    "timestamp": "2025-09-22T13:57:15.205708",
+    "tray": "16hole",
+    "videos": [
+        "/Users/argonlab3/Pychron/data/videos/D0242/72536-02I-001.avi"
+    ],
+    "weight": 19.64
+}
